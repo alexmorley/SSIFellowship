@@ -5,19 +5,25 @@
 
 
 ## Oxford Reproducibility
-Placeholder
+Cross-departmental working group
+- Incentives
+- Network
+- Training
 
 
 ## Mozilla Open Science
-Active member in Mozilla Community. 
+Active member in Mozilla Community.
+<img src="/img/msl-dark.png" alt-text="Mozilla Science Lab Logo" class="plain">
 
 
 ## Nature Neuroscience Code Review
-I was a reviewer in a pilot code review scheme (which will hopefully soon be implemented fully).
+Reviewer in a pilot code review scheme (which will hopefully soon be implemented fully).
+<img src="img/nn-code-review-pilot.png" alt-text="NN Code Review Editorial" class="plain">
 
 
 ## Open Science MOOC
 Part of a group of scientists building a massive open online course covering each aspect of Open Science in a modular and internet-focussed manner.
+<img src="img/mooc.gif" alt-text="Open Science MOOC Modules GIF">
 
 
 
