@@ -16,10 +16,10 @@
 
 - Neuroscience DPhil Student at the MRC BNDU at the University of Oxford
 
-<img src=img/oxmrclogo.png class="plain">
+<img src=img/oxmrclogo.png style="height: 100px; width: auto;" class="plain">
 - Place to return as a Graduate Medical Student from Oct 2018
 
-<img src="img/doc.png" class="plain">
+<img src="img/doc.png" style="height: 200px; width: auto;" class="plain">
 
 
 ## My Research
