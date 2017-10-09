@@ -47,12 +47,17 @@ I am part of an IT comittee that is responsible for the infrastructure supportin
 # Open Source Contributions <!-- not sure how to link this one -->
 
 
-## Mutliple Julia Stats/ML packages
-Lots of PRs for bug fixes and new features
+## Research software
+If I use it I fix/updgrade it!
+- Lots of PRs for bug fixes and new features
+- Especially Julia statistics & Machine Learning packages
+<!--<div class="github-card" data-user="alexmorley"></div>
+<script src="//cdn.jsdelivr.net/github-cards/latest/widget.js"></script>-->
+
 
 ## StackOverflow
 <a href="https://stackexchange.com/users/7161599">
-<img src="https://stackexchange.com/users/flair/7161599.png" width="208" height="58" alt="profile for Alexander Morley on Stack Exchange, a network of free, community-driven Q&amp;A sites" title="profile for Alexander Morley on Stack Exchange, a network of free, community-driven Q&amp;A sites">
+<img class="plain" src="https://stackexchange.com/users/flair/7161599.png" width="208" height="58" alt="profile for Alexander Morley on Stack Exchange, a network of free, community-driven Q&amp;A sites" title="profile for Alexander Morley on Stack Exchange, a network of free, community-driven Q&amp;A sites">
 </a><br>
 Active contributer especially within the Julia community
 
@@ -72,8 +77,3 @@ Active contributer especially within the Julia community
 ## Julia Neuro
 - Getting started to build a community of neuroscientists who use Julia
 - Meeting at SFN to discuss packages to release reccomend for Julia when Julia 1.0 comes around
-
-
-## goodideabadidea -gibi
-- Just a bit of fun & cool to try out TensorFlow
-

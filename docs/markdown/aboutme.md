@@ -35,4 +35,4 @@
     - Machine Learning
     - Reproducibility
 
-- But many neuroscientsts do not have computational or mathematical backgrounds. We're biologists!
+But many neuroscientsts do not have computational or mathematical backgrounds. We're biologists!
