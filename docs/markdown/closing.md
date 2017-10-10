@@ -4,4 +4,4 @@
 - Links to all my projects
 - Blog Posts
 - Full CV etc.
-- This application! <!--Including a bouns link to the repository (& a live interactive version) of this application itself (built primarily using the javascript library reveal.js). -->
+- This application (including credits & an interactive version!) <!--Including a bouns link to the repository (& a live interactive version) of this application itself (built primarily using the javascript library reveal.js). -->
