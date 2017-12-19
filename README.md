@@ -5,4 +5,4 @@ Hey! I'm a [Software Sustainability Fellow](https://www.software.ac.uk/fellowshi
 ## Why Github for something like this?
 - Some of my presentations are written as website and benefit from version control.
 - I can write notes and edit posts from anywhere with a browser.
-- In the spirit of the fellowship I'd like everything (for which it is appropriate) to be open (I know github itself isn't open source but ¯\_(ツ)_/¯ )
+- In the spirit of the fellowship I'd like everything (for which it is appropriate) to be open (I know github itself isn't open source but ¯\\_(ツ)_/¯ )
