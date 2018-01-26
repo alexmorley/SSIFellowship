@@ -51,6 +51,6 @@ Tip: try out a document / Notebook Interface
 <img src="img/matlab_livescript.png" class="plain">
 
 
-Tip (plea?):
+Tip:
 Use some form of Version Control.
 <!-- Version control means that every time you whenever you make a change to a program you aren't throwing away old versions. You could just add the date to every program and create a folder with old versions. But you might find life easier if you decide to use a dedicated system for doing. Git is the most widely used tool for doing this. It takes a few hours to learn what you need for it to be useful (a few lifetimes to know everything there is to know...) and its a pretty good skill to have on your CV. -->
