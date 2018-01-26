@@ -7,6 +7,7 @@
 
 
 - Have a plan.
+<img src="img/plan.jpg" class="plain">
 <!-- you have to have a plan that details exactly what you will do with every bit of data you collect that needs to include - *What data* is going to be collected during the experiment? - Where is it going to be stored initially? - Where is it going to be backed-up. - When/How will it be curated so that you/others can use it for analysis.-->
 
 
