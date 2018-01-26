@@ -1,4 +1,4 @@
-## Good Enough Practices in Data (and code) Management
+## Good Enough Practices in Data (and code) Management (WIP)
 
 <img src="img/oxmrclogo.png" class="plain">
 
@@ -30,17 +30,19 @@
   <tr>
     <td class="tg-qcjy" style="background-color: #B64743">Code</td>
     <td class="tg-qsvf" style="background-color: #B64743">Same <br></td>
-    <td class="tg-yw4l" style="background-color: #DC59A7">Reproducible</td>
+    <td class="tg-yw4l" style="background-color: #66ccff">Reproducible</td>
     <td class="tg-yw4l" style="background-color: #6600cc">Replicable</td>
   </tr>
   <tr></tr>
   <tr>
     <td class="tg-yw4l"></td>
-    <td class="tg-qsvf" style="background-color: #A5000D">Different</td>
-    <td class="tg-yw4l" style="background-color: #CC0045">Robust</td>
+    <td class="tg-qsvf" style="background-color: #66ccff">Different</td>
+    <td class="tg-yw4l" style="background-color: #66ccff">Robust</td>
     <td class="tg-yw4l" style="background-color: #660066">Generalisable</td>
   </tr>
   <tr></tr>
 </table>
- 
-Credit to Kirstie Whitaker <img src="img/kirstie_whitaker.jpg"style="height: 50px" class="plain">
+
+
+<img src="img/cartoon-make-data-great-again.jpg" class="plain">
+
