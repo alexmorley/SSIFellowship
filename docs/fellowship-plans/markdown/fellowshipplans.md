@@ -31,3 +31,10 @@ Promoting Julia to the Neuro community once 1.0 hits
 - Incentives
 - Network
 - Training
+
+
+## Code of Conduct Builder @ codeofconduct.io
+- importance of maintaining healthy open online communities
+- practice developing server-side applications
+<img class="plain" src="img/coc-eg.gif" alt-text="code of conduct example use GIF">
+

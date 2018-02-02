@@ -24,12 +24,6 @@ I'm a Software Carpentry Instructor.
 Active contributer especially within the Julia community
 
 
-## codeofconduct.io
-- importance of maintaining healthy open online communities
-- fun to experiment with full stack!
-<img class="plain" src="img/coc-eg.gif" alt-text="code of conduct example use GIF">
-
-
 ## Mozilla Open Science <!-- active member, regularly attend events and hackathons, I think Mozilla shows great strength in how they create and manage such active and diverse communities --> 
 Active member in Mozilla Community.
 <img src="/img/msl-dark.png" alt-text="Mozilla Science Lab Logo" class="plain">
