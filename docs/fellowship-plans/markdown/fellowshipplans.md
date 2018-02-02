@@ -28,7 +28,7 @@ Promoting Julia to the Neuro community once 1.0 hits
 ### Personal Goals
 - Teach at least two more SWC workshops in 2018
 - Host a "version control for scientists" workshop
-<img src="/img/swc_certificate_badge.png" alt="SWC Certificate" title="SWC Certificate" style="width: 150px; float:right;"><br>
+<img src="img/swc_certificate_badge.png" alt="SWC Certificate" title="SWC Certificate" style="width: 150px; float:right;"><br>
 
 
 <!-- luckily recently I have found many colleagues across our university are also worrying about the same issues... we have now formed a working group across more than 10 departments with proffessors, PIs, postdocs and graduate students who all would like to see our lead the way (or catch up) in doing robust, reproducible research -->
