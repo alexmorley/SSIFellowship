@@ -11,7 +11,7 @@ Part of a group of scientists building a massive open online course covering eac
 - Module 5: Open Research Software and Open Source
 
 
-## Julia Neuro Community
+## Julia Neuro Community [julianeuro.github.io](https://julianeuro.github.io/)
 Promoting Julia to the Neuro community once 1.0 hits
 - Compiling a list, and organising maintenance, of a set of "recommended" packages
 - Launch at Julia Con 2018 in London
@@ -37,7 +37,7 @@ Promoting Julia to the Neuro community once 1.0 hits
 - Training
 
 
-## Code of Conduct Builder @ codeofconduct.io
+## Code of Conduct Builder @ [codeofconduct.io](http://codeofconduct.io)
 - Building an inclusive community is not possible unless everyone feels safe.
 - Writing a good code of conduct from scratch is pretty hard.
 <img class="plain" src="img/coc-eg.gif" alt-text="code of conduct example use GIF">
