@@ -8,6 +8,7 @@ Part of a group of scientists building a massive open online course covering eac
 
 - Module 3: Reproducible Research and Data Analysis
 - Module 5: Open Research Software and Open Source
+<br><img src="img/mooc.gif" alt-text="Open Science MOOC Modules GIF" style="height: 400px; width: auto;" class="plain">
 
 
 ## Julia Neuro Community
@@ -19,11 +20,13 @@ Promoting Julia to the Neuro community once 1.0 hits
 
 
 ## Reproducible Research & Training in Oxford
+<img src=img/oxmrclogo.png style="height: 100px; width: auto;" class="plain">
 
 
 ### Personal Goals
 - Teach at least two more SWC workshops in 2018
 - Host a "version control for scientists" workshop
+<img src=img/oxmrclogo.png style="height: 100px; width: auto;" class="plain">
 
 
 <!-- luckily recently I have found many colleagues across our university are also worrying about the same issues... we have now formed a working group across more than 10 departments with proffessors, PIs, postdocs and graduate students who all would like to see our lead the way (or catch up) in doing robust, reproducible research -->
@@ -31,6 +34,7 @@ Promoting Julia to the Neuro community once 1.0 hits
 - Incentives
 - Network
 - Training
+<img src=img/oxmrclogo.png style="height: 100px; width: auto;" class="plain">
 
 
 ## Code of Conduct Builder @ codeofconduct.io
